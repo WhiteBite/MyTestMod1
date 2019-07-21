@@ -1,0 +1,10 @@
+[{
+    "modid": "tut",
+    "name": "Tutorial Mod",
+    "description": "This is my SUPER Test Mod. Like it!",
+    "version": "1.0.0.0",
+    "mcversion": "1.12+",
+    "url": "mcmodding.ru/",
+    "authorList": ["Ivasik", "Someone else"],
+    "credits": "I'd like to thank my mother and father."
+ }]
